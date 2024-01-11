@@ -1,5 +1,5 @@
 .gradient-background {
-  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background: linear-gradient(300deg, #FFE2E2,#FFC7C7, #8785A2 );
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -27,6 +27,34 @@
   border-radius: 50%;
 }
 
-.btn btn-primary btn-lg px-4 me-md-2{
-  background-color:FF9494 ;
+.mainBtnColored{
+  background-color:#ffffff !important;
+  border-color:#ffffff !important;
+  color:black !important;
+}
+
+.btnColored{
+  background-color:#FFC7C7 !important;
+  border-color:#FFC7C7 !important;
+  color:black !important;
+}
+
+.itemInvitatie{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.itemInvitatie img{
+  margin: auto;
+}
+
+.font-text-navbar{
+  font-family: 'Oswald', sans-serif;
+}
+
+.phoneImg img{
+  width: auto;
+  height: 800px;
 }
