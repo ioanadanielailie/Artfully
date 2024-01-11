@@ -26,6 +26,7 @@
   height: 100px;
   border-radius: 50%;
 }
-.text{
-  text-align: center;
+
+.btn btn-primary btn-lg px-4 me-md-2{
+  background-color:FF9494 ;
 }
