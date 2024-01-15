@@ -58,3 +58,32 @@
   width: auto;
   height: 800px;
 }
+
+
+.wedding
+{
+  fill:#EFB495;
+}
+.baptism{
+  fill: #AC87C5;
+}
+.aniversary{
+  fill:#756AB6;
+}
+.graduation{
+  fill:#A1EEBD;
+}
+.business{
+  fill:#7BD3EA;
+}
+.save-date{
+  fill: #FF6868;
+}
+.icon-link
+{
+  color:#8785A2 !important; 
+}
+
+.eventContainer{
+  text-decoration: none;
+}
